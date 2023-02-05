@@ -1,0 +1,46 @@
+body
+{
+    background-color: black;
+}
+img{
+    height: 70%;
+    width: 70%;
+}
+h2{
+    color: grey;
+    font-size: 3rem;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: gray;
+}
+.divi
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.divi_1
+{
+    text-align: center;
+ margin-top: 3%;
+ display: inline-block;
+}
+.divi_2
+{
+    margin-left: 4px;
+    text-align: center;
+ margin-top: 3px;
+ display: inline-block;
+}
+.first_dice
+{
+    margin-left: 0cm;
+}
+.second_dice
+{
+    margin-left: 2px;
+}
